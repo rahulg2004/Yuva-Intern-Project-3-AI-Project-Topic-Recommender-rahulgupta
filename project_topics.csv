@@ -1,0 +1,21 @@
+project_id,title,domain,description,skills,career_goal,difficulty
+1,AI Image Recognition System,Artificial Intelligence,Build an AI system that identifies objects and images using computer vision,Python Computer Vision Machine Learning,AI Engineer,Intermediate
+2,Student Performance Prediction,Data Science,Predict student academic performance using machine learning algorithms,Python Pandas Scikit-learn Machine Learning,Data Scientist,Beginner
+3,AI Chatbot Assistant,Generative AI,Develop an intelligent chatbot that understands user questions and provides useful responses,Python NLP APIs Generative AI,AI Engineer,Intermediate
+4,Smart Attendance System,Computer Vision,Create an automated attendance system using facial recognition,Python OpenCV Computer Vision Machine Learning,AI Engineer,Advanced
+5,Movie Recommendation System,Machine Learning,Recommend movies based on user preferences and similarity analysis,Python Pandas Machine Learning Recommendation Systems,ML Engineer,Intermediate
+6,Fake News Detection,Data Science,Detect misleading and fake news articles using natural language processing,Python NLP Machine Learning Scikit-learn,Data Scientist,Intermediate
+7,AI Resume Analyzer,Generative AI,Analyze resumes and provide skill and career recommendations,Python NLP Generative AI APIs,AI Engineer,Intermediate
+8,Sales Prediction System,Data Science,Forecast future sales using historical business data,Python Pandas Regression Machine Learning,Data Scientist,Beginner
+9,Object Detection Application,Computer Vision,Detect multiple objects in real-time video using computer vision,Python OpenCV YOLO Deep Learning,Computer Vision Engineer,Advanced
+10,Voice Assistant,Artificial Intelligence,Build a voice controlled assistant capable of executing user commands,Python Speech Recognition APIs NLP,AI Engineer,Intermediate
+11,Customer Churn Prediction,Machine Learning,Predict customers who may leave a service using historical data,Python Pandas Classification Machine Learning,Data Scientist,Intermediate
+12,AI Image Generation Studio,Generative AI,Generate digital artwork from natural language prompts using generative AI,Python APIs Generative AI Prompt Engineering,Generative AI Engineer,Advanced
+13,Email Spam Detection,Machine Learning,Classify emails as spam or legitimate using machine learning,NLP Python Scikit-learn Classification,ML Engineer,Beginner
+14,Crop Disease Detection,Computer Vision,Identify crop diseases from leaf images using deep learning,Python OpenCV CNN Deep Learning,AI Engineer,Advanced
+15,Personal Finance Advisor,Artificial Intelligence,Provide personalized financial insights using user spending patterns,Python Pandas Machine Learning Data Analysis,Data Scientist,Intermediate
+16,AI Study Assistant,Generative AI,Create an AI assistant that helps students understand educational topics,Python NLP Generative AI APIs,AI Engineer,Intermediate
+17,Face Emotion Recognition,Computer Vision,Detect human emotions from facial expressions using computer vision,Python OpenCV Deep Learning CNN,Computer Vision Engineer,Advanced
+18,House Price Prediction,Machine Learning,Estimate house prices using property features and regression models,Python Pandas Regression Scikit-learn,Data Scientist,Beginner
+19,GitHub Repository Analyzer,Artificial Intelligence,Analyze GitHub projects and generate useful project insights,Python APIs NLP Data Analysis,Software Engineer,Intermediate
+20,Cybersecurity Threat Detection,Cybersecurity,Detect suspicious network activities using machine learning,Python Machine Learning Cybersecurity Data Analysis,Cybersecurity Analyst,Advanced
